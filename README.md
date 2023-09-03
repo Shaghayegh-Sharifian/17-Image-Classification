@@ -7,3 +7,6 @@ In this code, I tried to use simple machine-learning concepts and models for eva
 <br>
 You can read more information about this dataset from the site of this dataset:<br>
 https://www.robots.ox.ac.uk/~vgg/data/
+<br>
+## **Conclusion**<br>
+Overall, I used the **Random Forest** algorithm for making predictions based on the aggregated results from the trees, and it was able to gain **F1-Score of 64%**.
